@@ -1,6 +1,3 @@
-# Prodigy_WD_02_StopWatch
-Task-2 Stopwatch web Application
-
 # StopWatch
 Welcome to my landing webpage. Source code is for showing my knowlege.
 
